@@ -9,4 +9,6 @@ A integração de dados por meio de ferramentas ETL desempenha um papel fundamen
 - VsCode
 - Python e suas bibliotecas
 - Git e GitHub
+- OpenAI
+  
   
