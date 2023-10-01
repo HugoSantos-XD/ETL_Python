@@ -8,4 +8,5 @@ A integração de dados por meio de ferramentas ETL desempenha um papel fundamen
 ## Princiais Tecnologias usadas:
 - VsCode
 - Python e suas bibliotecas
+- Git e GitHub
   
