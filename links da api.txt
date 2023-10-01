@@ -1,0 +1,78 @@
+{
+    "id": 3567,
+    "name": "pep",
+    "account": {
+      "id": 3790,
+      "number": "00899-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 3463,
+      "number": "**** **** **** 8795",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 3609,
+    "name": "PhyterLee",
+    "account": {
+      "id": 3838,
+      "number": "987458",
+      "agency": "000011",
+      "balance": 500,
+      "limit": 1000
+    },
+    "card": {
+      "id": 3506,
+      "number": "2138 2222 3333 4444",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 1121,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 7311,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+ {
+    "id": 3214,
+    "name": "Pip",
+    "account": {
+      "id": 8,
+      "number": "00002-2",
+      "agency": "0002",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 3109,
+      "number": "**** **** **** 2222",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 996,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 6649,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
